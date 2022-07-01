@@ -34,7 +34,7 @@ let boredom = 13;
 
 console.log(--boredom);
 
-const happiness = bananas - monkeys;
+const happiness = monkeys - bananas;
 
 console.log(happiness);
 
