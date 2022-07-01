@@ -24,7 +24,7 @@ console.log(monkeys / bananas);
 const monkeyfights = 20;
 const resultTwo = (monkeys + bananas) * monkeyfights;
 
-console.log(result2);
+console.log(resultTwo);
 
 let monkeyBusiness = 90;
 
